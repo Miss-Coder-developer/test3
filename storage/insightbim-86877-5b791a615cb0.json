@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "insightbim-86877",
+  "private_key_id": "5b791a615cb0ef32b7b8a7cec51a62dd20223944",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC27c3WaZYbRwZ0\niu1yFgDLpt9Kvsg/isGdfw4aTwEW5y350SSGdWFF5SsxUNBpP+rR363MGRotgnqz\nl5a8S7vZAokTzLIoJTUz+Zm4ruAgrzbXafY41Gh/VPZMNfPGlIeOgD3yDe9g8kh/\ndNTMlFUxnMO40bdqIbR5idDrgzDbVLzPU/9xcG1BYIgEbEDqZmB7TTFZZdjF+VH9\nIByJ0RNpU/65rZbXUEkWaYidILl1WbTXFiXWx2VcDhV00F5gsLNL2lD7TWcDAed8\neuPHD1hxVd+Tt51bzqA/2q2PRZmmjdi8rNEnlPt/vO71gBp90+ODPXjgFfcapRgl\nkRhzMf2LAgMBAAECggEAHtce0dxBQ14JF5Loj0hoX+1FTgu2JQhWth/al9LkAyF8\nndaFyul1Odx2GL1gNa5h/3ovie5dfHi4CRkwf5RhGigURjNHgf8r5hRZt0o8XSZN\nH6osqc4dxAHl+FlMPRmDdSHnz6xLxFN0p5Bh5A/KATBFyx4IRythivASOfKHRSLN\nsM1JFOde2fx5ugoaBUyWg/XApr9hiOD4ReaUuUNEGwfQ4M2ST3K8F0cV76uyT+H7\ncqaF/u/i1T3nzXngVqlPDVtd6nWTxSfS3GjjCQRnH9v6Lm71H1ZuTA9Cyxf+htMW\nupHWsH4IPTM1+pCAOmmG/AUfPcnWynCNmOmpp1Ak+QKBgQDy/bexdy3Vh9s1iTYQ\n0Lkrx5F0yqjVJzyx0G5sgKVXJMB5ewZHsGrnxJ5Yq5kAFoh2uvmzKBb9cDGy2AgM\nZVUVM7O1ysEvuiN/YeuiBcPfWo0p41nmrkcgaOxh9ZoJpyqD9nTwd0NcPLP7Lx/W\nwW42dGu/8UYbFpM6UrGKnUBHzwKBgQDAuOmT4CkogLOZLseHZM0dVaK+4tfKo+RV\nsAW1gehNuB/cQU7Arp87yNuWGoCciLlkve191uQUTLE+FqNwTF3fI5BMmkgvV/wW\nH+T5SHSkVyWGn0OE5yOZ0wxxOCeTFValBKuOnVl1qs0CMQmRriFi4Sw9WUYmSnlX\nOKC0h4UhhQKBgQC3hBcv2KqtEiXkkPRcTscK4XZhlo1cLn4QbTJ4j9BPuFoFZXyg\nuASFdmGA5lhvUJVP1navcB+s2Qcv4yhw9DcGBD49lhvBR/t3QSUNAP2lumXStPo4\n1naxa4zbjvn/QFlDwOcglXIyP0ZO9pA9SWlLhzG5jSc9XhdjfQDJh2n80QKBgQCW\nhJUhQlTC5mnevLNnYmn0fDqkXWTuRjyCU/zRewllEeYITxVj1b5VohUmUcKa/wnU\nzaWbv+bYl+FiPaoeffZe3VbJDUJNf6lJ2lUqANXguJN9ZgwE08VxUW0JTDNUY7kN\nHu2ib/A7v09oY8Y2ekpnALhdncj1BPtqDLcu6B0pRQKBgQCsa0YPYvuTyAajZlNK\n/2m2NCYs9t5ttIoPHn6rOqac/76m7Taj8fyRAfAW17dbVc/iT4F/seHmLhwsMxUa\nwmZvDZWVQUS2E7mlbpWX062lxmLaFcQK2xpge6qmJLOM2efnUrGpbb1fqtfsgZyS\n9FzwGKWInJNfHH9rOhOx6Qgg4A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "scaffplan@insightbim-86877.iam.gserviceaccount.com",
+  "client_id": "113610370774684019107",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/scaffplan%40insightbim-86877.iam.gserviceaccount.com"
+}
